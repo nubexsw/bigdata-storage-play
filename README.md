@@ -8,3 +8,5 @@ Steps:
 4. Data Visualization
 
 In order to achive these tasks, we need to enable a cluster manager like Kubernetes, Apache Mesos and Hadoop YARN.
+
+Use some tools that can provide authorization and authentication capabilities to provide more security to the cluster (Kerberos, Apache Ranger, Apache Sentry).
